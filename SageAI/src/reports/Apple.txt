@@ -1,0 +1,1 @@
+{"CompanyName": "Apple", "IndustryType": "Technology", "Strategic_Focus_Areas": "Consumer Electronics, Software, Services, Wearables, Online Services, Cloud Computing, Artificial Intelligence"}

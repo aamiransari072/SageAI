@@ -1,0 +1,13 @@
+
+# Web Scraping Libraries
+beautifulsoup4
+requests
+selenium
+python-dotenv
+streamlit
+nltk
+google-generativeai>=0.8.3
+tavily-python
+serpapi
+nltk
+-e .
